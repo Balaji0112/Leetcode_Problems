@@ -10,10 +10,9 @@ class Solution {
     			
     		}
     		else if(arr[ptr1]== 0 && arr[ptr2]!=0) {
-    			arr[ptr1] = arr[ptr2];
-    			arr[ptr2] = 0;
-    			++ptr1;
-    			++ptr2;
+    			arr[ptr1++] = arr[ptr2];
+    			arr[ptr2++] = 0;
+    			
     		}
     		else if(arr[ptr1] == 0 && arr[ptr2] == 0) {
     			++ptr2;

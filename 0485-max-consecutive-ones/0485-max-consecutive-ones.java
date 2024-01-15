@@ -6,9 +6,6 @@ class Solution {
             for(int i = 0; i < nums.length; i++) {
                 if(nums[i] == 1) {
                     count++;
-                    if(i == nums.length - 1 && count > maxCount) {
-                        maxCount = count;
-                    }
                 }
                 else if(count > maxCount) {
                     maxCount = count;
@@ -17,7 +14,11 @@ class Solution {
                 else {
                     count = 0;
                 }
-            }  
+            }
+        
+            if(count > maxCount) {
+			    maxCount = count;
+		    }
         
             return maxCount;
     }

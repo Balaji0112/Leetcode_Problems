@@ -15,4 +15,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0013-roman-to-integer) |
+| [2128-reverse-prefix-of-word](https://github.com/Balaji0112/Leetcode_Problems/tree/master/2128-reverse-prefix-of-word) |
+## Two Pointers
+|  |
+| ------- |
+| [2128-reverse-prefix-of-word](https://github.com/Balaji0112/Leetcode_Problems/tree/master/2128-reverse-prefix-of-word) |
+## Stack
+|  |
+| ------- |
+| [2128-reverse-prefix-of-word](https://github.com/Balaji0112/Leetcode_Problems/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->

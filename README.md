@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2128-reverse-prefix-of-word](https://github.com/Balaji0112/Leetcode_Problems/tree/master/2128-reverse-prefix-of-word) |
 ## Stack
 |  |
@@ -27,9 +28,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1646-kth-missing-positive-number](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1646-kth-missing-positive-number) |
 ## Binary Search
 |  |
 | ------- |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1646-kth-missing-positive-number](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1646-kth-missing-positive-number) |
+## Sorting
+|  |
+| ------- |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->

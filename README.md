@@ -25,12 +25,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2128-reverse-prefix-of-word](https://github.com/Balaji0112/Leetcode_Problems/tree/master/2128-reverse-prefix-of-word) |
 ## Array
 |  |
 | ------- |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1646-kth-missing-positive-number](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1646-kth-missing-positive-number) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Balaji0112/Leetcode_Problems/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Binary Search
 |  |
@@ -41,4 +43,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Simulation
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->

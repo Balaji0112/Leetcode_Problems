@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Balaji0112/Leetcode_Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Math
 |  |
 | ------- |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1646-kth-missing-positive-number](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1646-kth-missing-positive-number) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Balaji0112/Leetcode_Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Balaji0112/Leetcode_Problems/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Binary Search
 |  |
@@ -56,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Balaji0112/Leetcode_Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Queue
 |  |
 | ------- |
@@ -65,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Balaji0112/Leetcode_Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Counting
 |  |
 | ------- |
@@ -89,4 +93,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
+## Greedy
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Balaji0112/Leetcode_Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Balaji0112/Leetcode_Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->

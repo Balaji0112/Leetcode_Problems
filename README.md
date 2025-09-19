@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Balaji0112/Leetcode_Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Math
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0217-contains-duplicate](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1646-kth-missing-positive-number](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1646-kth-missing-positive-number) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -57,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0217-contains-duplicate](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Balaji0112/Leetcode_Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Queue
@@ -72,11 +75,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -100,5 +105,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Balaji0112/Leetcode_Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

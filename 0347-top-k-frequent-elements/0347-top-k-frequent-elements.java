@@ -20,7 +20,7 @@ class Solution {
 
         for(int pos = buckets.length - 1; pos >= 0 && counter < k; pos--){
             if(buckets[pos] != null){
-                for(Integer element: buckets[pos]){
+                for(int element: buckets[pos]){
                     res[counter++] = element;
                 }
                 

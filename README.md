@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Balaji0112/Leetcode_Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Math
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2128-reverse-prefix-of-word](https://github.com/Balaji0112/Leetcode_Problems/tree/master/2128-reverse-prefix-of-word) |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Balaji0112/Leetcode_Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -93,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -125,11 +129,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Balaji0112/Leetcode_Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |

@@ -23,7 +23,6 @@ class Solution {
             if(s.charAt(startPtr) == s.charAt(endPtr)){
                 startPtr++;
                 endPtr--;
-                continue;
             }
             else{
                 return isPalindrome(s, startPtr+1,endPtr) || isPalindrome(s, startPtr, endPtr-1);

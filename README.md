@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Balaji0112/Leetcode_Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Balaji0112/Leetcode_Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Math
 |  |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1646-kth-missing-positive-number](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1646-kth-missing-positive-number) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Balaji0112/Leetcode_Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Balaji0112/Leetcode_Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Balaji0112/Leetcode_Problems/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Binary Search
@@ -149,4 +151,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
+## Matrix
+|  |
+| ------- |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Balaji0112/Leetcode_Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 <!---LeetCode Topics End-->

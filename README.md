@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0680-valid-palindrome-ii](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
@@ -129,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Balaji0112/Leetcode_Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)

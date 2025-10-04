@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0189-rotate-array) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0680-valid-palindrome-ii](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2128-reverse-prefix-of-word](https://github.com/Balaji0112/Leetcode_Problems/tree/master/2128-reverse-prefix-of-word) |
@@ -177,4 +178,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0061-rotate-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->

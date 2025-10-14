@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -184,9 +185,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1013-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

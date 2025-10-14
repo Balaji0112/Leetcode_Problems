@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0189-rotate-array) |
+| [1013-fibonacci-number](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
+| [1013-fibonacci-number](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -179,4 +181,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0061-rotate-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->

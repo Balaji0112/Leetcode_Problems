@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1013-fibonacci-number) |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1013-fibonacci-number) |
 ## Matrix
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |

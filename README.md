@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0278-first-bad-version) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1646-kth-missing-positive-number](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1646-kth-missing-positive-number) |
 ## Sorting
@@ -200,4 +201,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0231-power-of-two) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

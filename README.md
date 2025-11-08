@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1646-kth-missing-positive-number](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1646-kth-missing-positive-number) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1646-kth-missing-positive-number](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1646-kth-missing-positive-number) |
 ## Sorting
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Balaji0112/Leetcode_Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Union Find
 |  |

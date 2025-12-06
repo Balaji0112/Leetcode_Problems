@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0061-rotate-list) |
+| [0092-reverse-linked-list-ii](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0206-reverse-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Recursion

@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0242-valid-anagram) |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0092-reverse-linked-list-ii) |
+| [0146-lru-cache](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0206-reverse-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Recursion
@@ -218,4 +220,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0278-first-bad-version) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

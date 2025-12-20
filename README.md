@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0231-power-of-two) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [1013-fibonacci-number](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -224,8 +227,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0146-lru-cache) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0146-lru-cache) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->

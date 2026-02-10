@@ -8,7 +8,7 @@ class UndergroundSystem {
     }
     
     public void checkIn(int id, String stationName, int t) {
-        arrivals.put(id, new ArrivalInfo(id, stationName, t));
+        arrivals.put(id, new ArrivalInfo(stationName, t));
     }
     
     public void checkOut(int id, String stationName, int t) {
@@ -28,12 +28,10 @@ class UndergroundSystem {
     }
 
     class ArrivalInfo {
-        int id;
         String stationName;
         int time;
 
-        ArrivalInfo(int id, String stationName, int time){
-            this.id = id;
+        ArrivalInfo(String stationName, int time){
             this.stationName = stationName;
             this.time = time;
         }

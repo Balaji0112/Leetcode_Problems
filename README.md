@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1396-design-underground-system](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1396-design-underground-system) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Balaji0112/Leetcode_Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Balaji0112/Leetcode_Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Math
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1396-design-underground-system](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1396-design-underground-system) |
 | [2128-reverse-prefix-of-word](https://github.com/Balaji0112/Leetcode_Problems/tree/master/2128-reverse-prefix-of-word) |
 ## Two Pointers
 |  |
@@ -228,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0146-lru-cache](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Balaji0112/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [1396-design-underground-system](https://github.com/Balaji0112/Leetcode_Problems/tree/master/1396-design-underground-system) |
 ## Doubly-Linked List
 |  |
 | ------- |
